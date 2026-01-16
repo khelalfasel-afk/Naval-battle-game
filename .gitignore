@@ -1,0 +1,33 @@
+# =====================
+# Java compiled files
+# =====================
+*.class
+
+# =====================
+# Build directories
+# =====================
+bin/
+target/
+out/
+
+# =====================
+# Ant build artifacts
+# =====================
+build/
+dist/
+
+# =====================
+# IDE files
+# =====================
+.idea/
+.vscode/
+*.iml
+*.classpath
+*.project
+.settings/
+
+# =====================
+# OS files
+# =====================
+.DS_Store
+Thumbs.db
